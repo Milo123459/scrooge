@@ -9,4 +9,4 @@ edition = "2018"
 [dependencies]
 colored = "2.0.0"
 structopt = "0.3.21"
-chrono = "0.4.19"
+chrono = "0.4.22"
